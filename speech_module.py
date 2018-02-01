@@ -23,7 +23,7 @@ def run_transcription_loop():
                 print("Internet connection error")
             except Exception as e:
                 print(e)
-                print("I don't know :/")
+                
 
 
 if __name__ == '__main__':
